@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mannypulator.github.io/csb-sg4i5j/static/css/main.d0291939.chunk.css",
+    "main.js": "https://mannypulator.github.io/csb-sg4i5j/static/js/main.6107f351.chunk.js",
+    "main.js.map": "https://mannypulator.github.io/csb-sg4i5j/static/js/main.6107f351.chunk.js.map",
+    "runtime-main.js": "https://mannypulator.github.io/csb-sg4i5j/static/js/runtime-main.8a09cb56.js",
+    "runtime-main.js.map": "https://mannypulator.github.io/csb-sg4i5j/static/js/runtime-main.8a09cb56.js.map",
+    "static/js/2.841eba3a.chunk.js": "https://mannypulator.github.io/csb-sg4i5j/static/js/2.841eba3a.chunk.js",
+    "static/js/2.841eba3a.chunk.js.map": "https://mannypulator.github.io/csb-sg4i5j/static/js/2.841eba3a.chunk.js.map",
+    "index.html": "https://mannypulator.github.io/csb-sg4i5j/index.html",
+    "static/css/main.d0291939.chunk.css.map": "https://mannypulator.github.io/csb-sg4i5j/static/css/main.d0291939.chunk.css.map",
+    "static/js/2.841eba3a.chunk.js.LICENSE.txt": "https://mannypulator.github.io/csb-sg4i5j/static/js/2.841eba3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a09cb56.js",
+    "static/js/2.841eba3a.chunk.js",
+    "static/css/main.d0291939.chunk.css",
+    "static/js/main.6107f351.chunk.js"
+  ]
+}
